@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# FTPBrute - Tools to perform brute force
+# FTPBrute - Ferramentas para executar força bruta
 
 # Description :
 
